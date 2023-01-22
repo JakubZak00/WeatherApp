@@ -1,0 +1,25 @@
+body {
+	background-color: rgba(145, 173, 255, 1);
+background-image: radial-gradient(circle, rgba(145, 173, 255, 1) 46%, rgba(78, 117, 241, 1) 100%);
+	color: rgb(255, 255, 255);
+	font-family: 'Oswald', sans-serif;
+}
+.card {
+	padding: 1.2rem 3rem 1rem 3rem;
+	margin: 1rem;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 1.5rem;
+	border-color: rgba(238, 237, 237, 0.438);
+	box-shadow: 5px 8px 10px #80808033;
+	text-align: center;
+	padding: 10px;
+}
+.opacity{
+	opacity: .7;
+}
+.round{
+	border-radius: 2rem;
+}
+.light{
+	font-weight: 300;
+}
